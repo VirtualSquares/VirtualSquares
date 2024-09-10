@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning Competitive Coding
 
-  • I'm currently studying for the USACO.
+  • I'm currently studying to improve my interview styled problem solving skills(leetcode, codeforces, etc)
 
 - 💞️ I’m looking to collaborate on Web-Dev/Python related projects
 
