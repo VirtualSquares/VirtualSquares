@@ -1,10 +1,26 @@
 
 - 👋 Hi, I’m @VirtualSquares
-- 👀 I’m interested in everything Programming
+
+  • I'm currently a Freshman with a passion for tech entrepreneurship.
+  
+- 👀 I’m interested in business and tech
+
+  • Anything relating to entrepreneurship and technology fascinates me, and motivates me to learn more!
+  
 - 🌱 I’m currently learning Competitive Coding
+
+  • I'm currently studying for the USACO.
+
 - 💞️ I’m looking to collaborate on Web-Dev/Python related projects
+
+  • Feel free to reach out to me in my linked E - mail contact for any inquires on project collaboration.
+  
 - 📫 How to reach me: Contact me at shravanparadigm@gmail.com
+
+  • I'm pretty punctual with my E - mail, so except a quick response :D
+  
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: I dream to one day be a Tech Entrepreneur
 
 ![image](https://github.com/user-attachments/assets/f9b153bc-989c-4131-bb94-51c15891fedb)
