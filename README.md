@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+<h1 style = "text-align-center">A self driven freshman with a passion for technology</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virtualsquares&label=Profile%20views&color=0e75b6&style=flat" alt="virtualsquares" /> </p>
 
 - 🔭 I’m currently working on **Thriftify**
