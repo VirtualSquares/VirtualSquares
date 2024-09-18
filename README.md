@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shravan Sithambaram</h1>
-<h3 align="center">A passionate freshman with an aspiration towards entrepreneurship and programming</h3>
+![Header](./github-header-image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virtualsquares&label=Profile%20views&color=0e75b6&style=flat" alt="virtualsquares" /> </p>
 
