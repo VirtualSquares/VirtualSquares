@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/VirtualSquares](github.com/VirtualSquares)
 
-- 💬 Ask me about **React, Tailwind, Typescript, Vite, HtML, CSS, JS, Python**
+- 💬 Ask me about **React, Tailwind, Typescript, Vite, HTML, CSS, JS, Python**
 
 - 📫 How to reach me **shravanparadigm@gmail.com**
 
